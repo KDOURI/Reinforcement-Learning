@@ -2,14 +2,14 @@
 
 ##### This project represents some examples of reinforcement learning.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
-* The first example represents the Multi-Armed Bandit problem solved with different algorithms such as: 
+* The first example (MAB) represents the Multi-Armed Bandit problem solved with different algorithms such as: 
     
       - Epsilon-Greedy 
       - OPTIMISTIC INITIAL VALUES 
       - Upper Confidence Bound 
       - GRADIENT BANDIT ALGORITHM 
 __________________________________________________________________________________________________________________________________________________________
-* The Seconde example represents differents algorithms of Dynamics Programming such as:
+* The Seconde example (DP) represents differents algorithms of Dynamics Programming such as:
                 
       - Iterative Policy Evaluation
       - Policy Improvement
