@@ -14,10 +14,12 @@ The Seconde example represents differents algorithms of Dynamics Programming suc
 * Policy Iteration
 * Policy Iteration 
 * Value Iteration 
+
 Applied on different examples such as:
-* GRIDWORD
-* Jack’s Car Rental
-* Gambler’s Problem
+
+    - GRIDWORD
+    -  Jack’s Car Rental
+    - Gambler’s Problem
 
 # References
 * Reinforcement Learning: An Introduction (2nd Edition)
