@@ -22,9 +22,10 @@ Applied on different examples such as:
 # References
 * Reinforcement Learning: An Introduction (2nd Edition)
 
-      - Richard S. Sutton and Andrew G. Barto
+       - Richard S. Sutton and Andrew G. Barto
 *  UCL Course on RL: https://www.davidsilver.uk/teaching/
-      - David Silver
+
+       - David Silver
 * https://github.com/ShangtongZhang/reinforcement-learning-an-introduction
 
        - Shangtong Zhang 
