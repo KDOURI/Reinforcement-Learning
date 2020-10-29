@@ -25,5 +25,5 @@ Applied on different examples such as:
 *  UCL Course on RL: https://www.davidsilver.uk/teaching/
       - David Silver
 * https://github.com/ShangtongZhang/reinforcement-learning-an-introduction
-      - Shangtong Zhang
+      - Shangtong Zhang 
 
