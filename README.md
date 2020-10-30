@@ -16,7 +16,7 @@ ________________________________________________________________________________
       - Policy Iteration
       - Policy Iteration 
       - Value Iteration 
-
+___________________________________________________________________________________________
 * Applied on different examples such as:
 
       - GRIDWORD
